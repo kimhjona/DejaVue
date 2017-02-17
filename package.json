@@ -1,4 +1,4 @@
-{
+{ 
   "name": "dejavue",
   "version": "1.0.0",
   "description": "Vue component and state visualizer and render time optimizer",
